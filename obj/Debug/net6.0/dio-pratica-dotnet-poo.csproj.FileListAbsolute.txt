@@ -1,0 +1,15 @@
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\dio-pratica-dotnet-poo.exe
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\dio-pratica-dotnet-poo.deps.json
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\dio-pratica-dotnet-poo.runtimeconfig.json
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\dio-pratica-dotnet-poo.dll
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\ref\dio-pratica-dotnet-poo.dll
+C:\_Dev\dio-pratica-dotnet-poo\bin\Debug\net6.0\dio-pratica-dotnet-poo.pdb
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.csproj.AssemblyReference.cache
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.AssemblyInfoInputs.cache
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.AssemblyInfo.cs
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.csproj.CoreCompileInputs.cache
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.dll
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\ref\dio-pratica-dotnet-poo.dll
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.pdb
+C:\_Dev\dio-pratica-dotnet-poo\obj\Debug\net6.0\dio-pratica-dotnet-poo.genruntimeconfig.cache
